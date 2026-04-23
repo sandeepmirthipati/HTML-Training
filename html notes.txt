@@ -1,0 +1,30 @@
+html is not a case sensitive 
+<p> paragraph</p>
+<br> break new line
+<hr> horizontal line 
+<img src=" address" height=85% width=85%>image tag</img>
+<morquee> </morquee>
+
+questions
+1.what are semantic tags what are the use of it 
+2.give the list of the semantic tag for the table
+3.how do you include customized bullets for the list options 
+4.how to set all images in same height and width in a website
+5.can i include images as links 
+6.what is the use of alt attributes for the images 
+7.how to play audio file automatically when the webpage is opened 
+8.how to include google maps in the webpage
+9.how to include youtube videos in the webpage
+10.how to apply different colors to the table even rows and odd rows separately
+
+
+some new points
+
+font attribute used to font style :	<font face ="arial">
+font attributes are face, color
+
+tag used to highlighted text "<mark>"
+
+which contains metadata is "head"
+
+list in reversed is "<ol reversed>"
